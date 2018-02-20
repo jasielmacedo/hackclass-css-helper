@@ -1,4 +1,4 @@
-# Hatcss ![GitHub release](https://img.shields.io/github/release/jasielmacedo/hatcss.svg)
+# Hatcss [![GitHub release](https://img.shields.io/github/release/jasielmacedo/hatcss.svg)](https://github.com/jasielmacedo/hatcss/releases)
 
 Hatcss combine easy css with the best tools for web.
 You can edit visual html without any other css file
