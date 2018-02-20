@@ -1,6 +1,7 @@
 # Hatcss ![GitHub release](https://img.shields.io/github/release/jasielmacedo/hatcss.svg)
 
-Hatcss is a 
+Hatcss combine easy css with the best tools for web.
+You can edit visual html without any other css file
 
 ## Dependences
 
