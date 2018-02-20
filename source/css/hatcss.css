@@ -261,6 +261,7 @@ ul li { list-style: none outside none; }
 .line_25{ line-height: 25px; }
 .line_30{ line-height: 30px; }
 
-.start_animation {opacity: 1;filter: alpha(opacity=100);}
+
 .animate_when_almost_visible {opacity: 0;filter: alpha(opacity=0);}
 .animate_when_almost_visible:not(.start_animation){	-webkit-animation:none;	-o-animation:none;	animation:none;}
+.start_animation {opacity: 1;filter: alpha(opacity=100);}
