@@ -1,19 +1,22 @@
-# Hatcss [![GitHub release](https://img.shields.io/github/release/jasielmacedo/hatcss.svg)]
+# Hatcss ![GitHub release](https://img.shields.io/github/release/jasielmacedo/hatcss.svg)
 
-With Hatcss you can make changes easy. Using only classes.
+Hatcss is a 
 
 ## Dependences
 
 [Jquery](http://gulpjs.com/)
+
 [Animate.css](https://daneden.github.io/animate.css/)
+
 [Waypoints](http://imakewebthings.com/waypoints/)
+
 [Bootstrap](https://getbootstrap.com/)
 
-_Bootstrap is opitional_
+_Bootstrap is optional_
 
 ## Usage
 
-1.Include the stylesheet and Javascript on your document's `<head>` including the thirdparty assets.
+1. Include the stylesheet and Javascript on your document's `<head>` including the thirdparty assets.
 
 ```html
 <head>
@@ -37,7 +40,7 @@ _Bootstrap is opitional_
 
 3. Use Animate.css classes (See [Animate.css](https://daneden.github.io/animate.css/) for more info)
 
-If you want to execute animation only when the element is visible on viewport, add class `animate_when_almost_visible`
+If you want to execute animations only when the element is visible on viewport, add class `animate_when_almost_visible`
 
 ```html
 <div class='margin_t_10 margin_b_20 padding_l_10 padding_r_20 animate_when_almost_visible fadeInUp'></div>
@@ -51,7 +54,7 @@ If not, just add the class `animated`
 
 ## Margin Class List
 
-_each class is equivalent to their property on css_
+_each class is equivalent to their property on css context_
 
 | Class Name        |
 | ----------------- |
@@ -111,7 +114,7 @@ _each class is equivalent to their property on css_
 
 ## Padding Class List
 
-_each class is equivalent to their property on css_
+_each class is equivalent to their property on css context_
 
 | Class Name        |
 | ----------------- |
@@ -156,9 +159,9 @@ _each class is equivalent to their property on css_
 | padding_r_40 |
 | padding_r_50 |
 
-## Others class available
+## Others
 
-_each class is equivalent to their property on css_
+_each class is equivalent to their property on css context_
 
 | Class Name        |
 | ----------------- |
