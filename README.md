@@ -53,6 +53,18 @@ If not, just add the class `animated`
 <div class='animated fadeInUp'></div>
 ```
 
+## Animate.css sequence animation
+
+1. Just Add the class `animation_after` to create a simple sequence.
+
+```html
+<div class='animate_when_almost_visible fadeInUp'></div>
+<div class='animate_when_almost_visible fadeInUp animation_after'></div>
+<div class='animate_when_almost_visible fadeInDown animation_after'></div>
+```
+
+__see [Animation](https://github.com/jasielmacedo/hackclass/blob/master/examples/animation.html) example__
+
 ## Margin Class List
 
 _each class is equivalent to their property on css context_
