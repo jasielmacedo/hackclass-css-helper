@@ -1,5 +1,5 @@
 /*!
- * Hatcss -https://github.com/jasielmacedo/hatcss/
+ * Hackclass -https://github.com/jasielmacedo/hackclass/
  * Version - 1.0.0
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *

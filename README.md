@@ -1,6 +1,6 @@
-# Hatcss [![GitHub release](https://img.shields.io/github/release/jasielmacedo/hatcss.svg)](https://github.com/jasielmacedo/hatcss/releases)
+# Hack class [![GitHub release](https://img.shields.io/github/release/jasielmacedo/hackclass.svg)](https://github.com/jasielmacedo/hackclass/releases)
 
-Hatcss combine easy css with the best tools for web.
+Hack Class combine easy css with the best tools for web.
 You can edit visual html without any other css file
 
 ## Dependences
@@ -23,13 +23,13 @@ _Bootstrap is optional_
 <head>
   <link rel="stylesheet" href="css/thirdparty/bootstrap.min.css" media="all" />  
   <link rel="stylesheet" href="css/thirdparty/animate.min.css" media="all" />  
-  <link rel="stylesheet" href="css/hatcss.min.css" media="all" />
+  <link rel="stylesheet" href="css/hackclass.min.css" media="all" />
   
   
   <script type="text/javascript" src="js/thirdparty/jquery.min.js"></script>
   <script type="text/javascript" src="js/thirdparty/jquery.waypoints.min.js"></script>
   <script type="text/javascript" src="js/thirdparty/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/hatcss.js"></script>
+  <script type="text/javascript" src="js/hackclass.js"></script>
 </head>
 ```
 
