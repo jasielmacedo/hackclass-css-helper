@@ -65,6 +65,18 @@ If not, just add the class `animated`
 
 __see [Animation](https://github.com/jasielmacedo/hackclass/blob/master/examples/animation.html) example__
 
+## Animate.css repeat animation 
+
+If you want to repeat animation when the scroll up just add the class `repeat_animation`
+
+```html
+<div class='animate_when_almost_visible fadeInUp repeat_animation'></div>
+```
+
+_Thank you [@Invincibear](https://github.com/jasielmacedo/hackclass/issues/1) for the suggestion_
+
+__see [Animation](https://github.com/jasielmacedo/hackclass/blob/master/examples/animation.html) example__
+
 ## Margin Class List
 
 _each class is equivalent to their property on css context_
